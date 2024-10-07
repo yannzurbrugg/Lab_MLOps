@@ -6,5 +6,8 @@ __pycache__/
 
 ## DVC
 
+# DVC plots
+dvc_plots
+
 # DVC will add new files after this line
 /model
