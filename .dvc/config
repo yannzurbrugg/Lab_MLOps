@@ -1,2 +1,6 @@
 [plots]
     auto_open = true
+[core]
+    remote = data
+['remote "data"']
+    url = gs://mlops-bucket-yannzurbrugg/dvcstore
